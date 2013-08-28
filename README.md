@@ -85,3 +85,4 @@ These people have contributed to the gem.  Many thanks!:
 
 - Josh Adams
 - [Robert Jackson](https://github.com/rjackson)
+- [David Chapman](https://github.com/dchapman1988)
